@@ -57,4 +57,3 @@ Feel free to:
 ---
 
 Let the dumping begin! 💀
-```
