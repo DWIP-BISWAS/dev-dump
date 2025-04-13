@@ -16,7 +16,7 @@ body:
     attributes:
       label: How can we contact you?
       description: Drop your GitHub, email or just say "you can't" if you prefer.
-      placeholder: dwipbiswas22972@gmail.com
+      placeholder: dwipbiswas@yahoo.com
     validations:
       required: false
 
