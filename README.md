@@ -28,7 +28,7 @@ A public space for developers to:
 
 1. **Fork** this repo
 2. Go to the `/code` folder
-3. **Create a subfolder** for your language if it doesn’t exist (e.g. `python`, `javascript`, `cursed`, etc.)
+3. **Create a subfolder** with your project name (e.g. `web-scrapper`, `javascript-tutorials`, `my-cursed-project`, etc.)
 4. Drop in your code file(s) with a descriptive name (`memeSort.js`, `whyDoesThisWork.py`, etc.)
 5. Optional: Comment what it does at the top (or don’t — raw chaos is valid)
 6. **Submit a Pull Request**
