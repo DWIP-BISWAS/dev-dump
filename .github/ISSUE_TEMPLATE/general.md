@@ -1,0 +1,61 @@
+name: General Issue
+description: Bug report, feature idea, or whatever you wanna dump here.
+title: "[ISSUE] "
+labels: ["needs-triage"]
+assignees:
+  - DWIP-BISWAS
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🧠 Before You Start
+        Thanks for dropping by! Whether it’s a bug, idea, or suggestion — we appreciate your input.
+
+  - type: input
+    id: contact
+    attributes:
+      label: How can we contact you?
+      description: Drop your GitHub, email or just say "you can't" if you prefer.
+      placeholder: dwipbiswas22972@gmail.com
+    validations:
+      required: false
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: What type of issue is this?
+      options:
+        - Bug Report
+        - Feature Request
+        - Enhancement
+        - Question
+        - Just dumping ideas
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the issue
+      description: Be as specific or chaotic as you'd like.
+      placeholder: Something broke, or I thought of something cool...
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce (if it's a bug)
+      description: Tell us how to trigger the problem, if applicable.
+      placeholder: Step-by-step breakdown
+    validations:
+      required: false
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional Context
+      description: Anything else we should know?
+      placeholder: Code links, screenshots, device details, memes...
+    validations:
+      required: false
