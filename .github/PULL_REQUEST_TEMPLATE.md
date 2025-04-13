@@ -6,7 +6,7 @@ Thanks for your contribution to this chaotic dumpyard of code!
 
 ## 📦 What’s inside this PR?
 
-<!-- Briefly describe what you added/changed -->
+Briefly describe what you added/changed
 - 
 
 ## 🛠️ Changes Made
@@ -20,7 +20,7 @@ Thanks for your contribution to this chaotic dumpyard of code!
 
 ## 📝 Additional Notes
 
-<!-- Any context, warnings, dependencies, memes... -->
+Any context, warnings, dependencies, memes...
 - 
 
 ---
